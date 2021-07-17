@@ -4,7 +4,7 @@
 Занимаюсь в 'Frontend'е разработки сайтов. 
 Мне всегда нравится создавать что-то самостоятельно, что полезно для других.
 
-Мой стек : {React||JavaScript, HTML||SCSS, Photoshop||Figma, Webpack||Gulp и Woocommerce}
+Мой стек : {React//Redux||JavaScript, HTML||SCSS, Photoshop||Figma, Webpack||Gulp и Woocommerce}
 Открыть к предложениям для сотрудничества.
 
 <!---
